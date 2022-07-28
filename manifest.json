@@ -1,0 +1,22 @@
+{
+
+    "manifest_version": 3,
+    "name": "Twt Bookmarks Search",
+    "short_name": "iSearchBkmrks",
+    "description": "Search your Twitter bookmarks on a Chrome browser!",
+    "version": "0.1.0",
+    "icons": {
+        "16": "/images/icon-16.png",
+        "48": "/images/icon-48.png",
+        "128": "/images/icon-128.png"
+    },
+
+    "background.service_worker": {
+        "page": "background.html"
+      },
+
+    "content_scripts": [{
+        "matches": ["https://www.twitter.com/*"],
+        "css": ["main.css"]
+    }]
+}
