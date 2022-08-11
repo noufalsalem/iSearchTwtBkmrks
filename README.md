@@ -1,5 +1,5 @@
 # iSearchTwtBkmrks
-#### Google Chrome Extension that allows you to search your Twitter bookmarks efficiently (Not complete yet).
+#### Google Chrome Extension that allows you to search your Twitter bookmarks efficiently - <b><i>not complete yet</i></b>.
 
 ## About
 #### A few years back, I needed to search my Twitter bookmarks (as I have too many of them) but that had never been an option. I assumed someone <i>must</i> have thought the same and done something about it -- and I was right. I found a Chrome extension that allows you to search Twitter bookmarks which was developed by GitHub user <a href="https://github.com/flybayer/"> flybayer</a> and can be found <a href="https://github.com/flybayer/twitter-bookmarks-search">here</a>.
